@@ -12,18 +12,18 @@
 <br> `redis-server`<br>
 <br>🌀¦ اترك الترمنال مفتوح وافتح ترمنال جديد وخلي<br>
 
-<br>` git clone https://github.com/alqaser/KEEPER.git && cd KEEPER && chmod +x keeper && ./keeper `<br>
+<br>` git clone https://github.com/MEXECOTEAM/MEXEC0.git && cd MEXEC0 && chmod +x MEXEC0 && ./MEXEC0 `<br>
 
 # <p align="center">لتنصيبه بالأكواد 
 ## افتح ترمنال وخلي الكود بعد كل كود انتر
 
--    `git clone https://github.com/alqaser/KEEPER.git` 
+-    `git clone https://github.com/MEXECOTEAM/MEXEC0.git` 
 
--    `cd KEEPER`
+-    `cd MEXEC0`
 
--    `chmod +x keeper`
+-    `chmod +x MEXEC0`
 
--    `./keeper`
+-    `./MEXEC0`
 
 # <p align="center"> بعد ما تخلص التنصيب 
 
@@ -34,7 +34,7 @@
 
 ##  يشتغل تلقائيا بعد ه سد الترمنال وافتح جديد وخلي
 
-##   `cd KEEPER && screen ./keeper`
+##   `cd MEXEC0 && screen ./MEXEC0`
 
 ##  💬¦ البوت خالي من الحقوق
 
